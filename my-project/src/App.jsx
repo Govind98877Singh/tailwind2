@@ -17,7 +17,7 @@ const App = () => {
                 href="#"
                 className="no-underline text-white hover:text-yellow-200 hover:underline hover:duration-500"
               >
-                Home
+                Home govind
               </a>
             </li>
             <li className="list-none inline-block px-6">
