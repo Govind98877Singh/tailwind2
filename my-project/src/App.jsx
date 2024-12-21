@@ -1,7 +1,7 @@
 import "./App.css";
 import logo from "./assets/images/logo.png"; // Import the image file
 import Cart from "./assets/images/cart.png"; // Import the image file
-// import image from "./assets/images/image.png"; // Import the image file
+import image from "./assets/images/image.png"; // Import the image file
 import grocery from "./assets/images/grocery-image.png"; // Import the image file
 import background from "./assets/images/Image.png"; // Import the image file
 
